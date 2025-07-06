@@ -1,7 +1,10 @@
+I am Suumit Joshi, a Solution Engineer with 17+ years of experience in .NET, Azure, Cyber Security and Python. This project reflects my AI/ML learning journey and hands-on capabilities.
+
+
 # ml-algorithms-python-genai
 Python AI/ML/Data Science, GenAI , .NET + Azure Microservices, Cyber security
 
-# 👋 Hi, I'm Suumit Joshi
+# 👋 Hi, I'm Sumit Joshi
 🚀 Solution Engineer | Azure & .NET Architect | AI/ML Enthusiast | Cyber security  
 🎯 17+ yrs of experience building scalable, secure, cloud-native solutions  
 
