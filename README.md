@@ -17,3 +17,15 @@ Python AI/ML/Data Science, GenAI , .NET + Azure Microservices, Cyber security
 - Publishing reusable code templates and hands-on projects
 
 📫 Connect with me on [LinkedIn]([https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/sumit-joshi-25041979/))
+
+## ✅ Features
+
+- 🧠 Implements core **ML algorithms from scratch** in Python
+- 📊 Includes **exploratory data analysis (EDA)** with Pandas & Matplotlib
+- 🤖 Integrates **Generative AI (GenAI)** using OpenAI APIs
+- 🗃️ Organized as Jupyter Notebooks for hands-on learning
+- 🔍 Visual explanations of model behavior (graphs, metrics)
+- 🧪 Covers **classification, regression, and clustering**
+- 🔁 Compares **sklearn vs manual implementations**
+- 💬 Basic **prompt engineering experiments** included
+- 
