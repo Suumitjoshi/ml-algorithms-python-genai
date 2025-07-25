@@ -1,4 +1,4 @@
-I am Suumit Joshi, a Solution Engineer with 17+ years of experience in .NET, Azure, Cyber Security and Python. This project reflects my AI/ML learning journey and hands-on capabilities.
+I am Sumit Joshi, a Solution Engineer with 17+ years of experience in .NET, Azure, Cyber Security and Python. This project reflects my AI/ML learning journey and hands-on capabilities.
 
 
 # ml-algorithms-python-genai
